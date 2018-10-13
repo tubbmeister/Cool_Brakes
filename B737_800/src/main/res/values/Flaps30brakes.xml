@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="flaps30brakes">
+        <item>f30_dry_ab3</item>
+        <item>f30_dry_ab2</item>
+        <item>f30_dry_ab1</item>
+
+
+
+    </array>
+
+
+</resources>

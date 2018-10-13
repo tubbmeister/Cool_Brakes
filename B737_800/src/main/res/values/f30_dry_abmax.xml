@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="f30_dry_abmax"><!-- Non Short FieldPack -->
+        <item>3980</item>
+        <item>190</item>
+        <item>220</item>
+        <item>90</item>
+        <item>-150</item>
+        <item>-490</item>
+        <item>-0</item> <!-- must be minus to work!!! -->
+        <item>-0</item>
+        <item>90</item>
+        <item>-90</item><!-- % slope -->
+        <item>310</item>
+        <item>0</item>  <!-- 1 t/r -->
+        <item>10</item>  <!-- 0 t/r -->
+
+
+
+
+
+    </integer-array>
+
+
+</resources>

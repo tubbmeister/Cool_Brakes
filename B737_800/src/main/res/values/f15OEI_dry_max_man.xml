@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="f15oei_dry_max_man">
+        <item>3260</item>
+        <item>490</item>
+        <item>230</item> //must be positive
+        <item>80</item>
+        <item>-120</item>
+        <item>-430</item>
+        <item>-50</item> <!-- must be minus to work!!! -->
+        <item>-40</item>
+        <item>70</item>   <!-- app spd adjust -->
+        <item>-70</item>
+        <item>130</item>
+        <item>0</item>  <!-- 1 t/r -->
+        <item>120</item>  <!-- 0 t/r -->
+
+
+
+
+
+    </integer-array>
+</resources>

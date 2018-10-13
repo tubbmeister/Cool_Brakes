@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="f30_good_ab2"><!-- Non Short FieldPack -->
+        <item>8260</item>
+        <item>530</item>
+        <item>580</item>
+        <item>250</item>
+        <item>-380</item>
+        <item>-1290</item>
+        <item>-100</item> <!-- must be minus to work!!! -->
+        <item>-150</item>
+        <item>240</item>
+        <item>-240</item><!-- % slope -->
+        <item>350</item>
+        <item>230</item>  <!-- 1 t/r -->
+        <item>230</item>  <!-- 0 t/r -->
+
+
+
+
+
+    </integer-array>
+
+
+</resources>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="f15oei_dry_ab2">
+        <item>7300</item>
+        <item>560</item>
+        <item>600</item>
+        <item>210</item>
+        <item>-320</item>
+        <item>-1080</item>
+        <item>-20</item> <!-- must be minus to work!!! -->
+        <item>-70</item>
+        <item>210</item>   <!-- app spd adjust -->
+        <item>-210</item>
+        <item>370</item>
+        <item>0</item>  <!-- 1 t/r -->
+        <item>0</item>  <!-- 0 t/r -->
+
+
+
+
+
+    </integer-array>
+
+
+
+</resources>
