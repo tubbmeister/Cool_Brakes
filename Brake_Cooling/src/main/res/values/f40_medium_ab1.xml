@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="f40_medium_ab1">
+        <item>8290</item>
+        <item>560</item>
+        <item>590</item>
+        <item>260</item>
+        <item>-430</item>
+        <item>-1510</item>
+        <item>-300</item> <!-- must be minus to work!!! -->
+        <item>-260</item>
+        <item>240</item>   <!-- app spd adjust -->
+        <item>-240</item>
+        <item>310</item>
+        <item>600</item>  <!-- 1 t/r -->
+        <item>1040</item>  <!-- 0 t/r -->
+
+
+
+
+
+    </integer-array>
+
+</resources>

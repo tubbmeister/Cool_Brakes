@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="f40_dry_ab3"><!-- Non Short FieldPack -->
+        <item>5130</item>
+        <item>290</item>
+        <item>320</item>
+        <item>140</item>
+        <item>-230</item>
+        <item>-770</item>
+        <item>-0</item> <!-- must be minus to work!!! -->
+        <item>-10</item>
+        <item>140</item>
+        <item>-140</item><!-- % slope -->
+        <item>280</item>
+        <item>0</item>  <!-- 1 t/r -->
+        <item>0</item>  <!-- 0 t/r -->
+
+
+
+
+
+    </integer-array>
+
+
+</resources>

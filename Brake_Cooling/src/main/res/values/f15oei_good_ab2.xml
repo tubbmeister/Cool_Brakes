@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources><integer-array name="f15oei_good_ab2">
+    <item>7770</item>
+    <item>490</item>
+    <item>530</item>
+    <item>230</item>
+    <item>-350</item>
+    <item>-1170</item>
+    <item>-30</item> <!-- must be minus to work!!! -->
+    <item>-90</item>
+    <item>230</item>   <!-- app spd adjust -->
+    <item>-230</item>
+    <item>370</item>
+    <item>0</item>  <!-- 1 t/r -->
+    <item>10</item>  <!-- 0 t/r -->
+
+</integer-array></resources>

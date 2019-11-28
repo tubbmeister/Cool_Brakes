@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="w70_0">
+        <item>13.7</item>
+        <item>15.4</item>
+        <item>17.5</item>
+        <item>20.2</item>
+        <item>22.8</item>
+        <item>26.0</item>
+        <item>27.7</item>
+        <item>31.3</item>
+        <item>35.9</item>
+        <item>36.1</item>
+        <item>41.0</item>
+        <item>47.2</item>
+        <item>45.3</item>
+        <item>51.6</item>
+        <item>59.7</item>
+        <item>54.9</item>
+        <item>62.7</item>
+        <item>72.9</item>
+
+
+
+
+
+    </string-array>
+
+
+
+</resources>

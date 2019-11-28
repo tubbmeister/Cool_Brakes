@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="f40_medium_ab2"><!-- Non Short FieldPack -->
+        <item>7680</item>
+        <item>480</item>
+        <item>520</item>
+        <item>230</item>
+        <item>-390</item>
+        <item>-1390</item>
+        <item>-220</item> <!-- must be minus to work!!! -->
+        <item>-210</item>
+        <item>220</item>   <!-- app spd adjust -->
+        <item>-220</item>
+        <item>330</item>
+        <item>300</item>  <!-- 1 t/r -->
+        <item>670</item>  <!-- 0 t/r -->
+
+
+
+
+
+    </integer-array>
+
+</resources>

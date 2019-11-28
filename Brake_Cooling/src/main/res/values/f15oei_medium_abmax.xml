@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="f15oei_medium_abmax">
+    <item>6640</item>
+    <item>430</item>
+    <item>450</item>
+    <item>200</item>
+    <item>-340</item>
+    <item>-1190</item>
+    <item>-310</item> <!-- must be minus to work!!! -->
+    <item>-240</item>
+    <item>190</item>   <!-- app spd adjust -->
+    <item>-190</item>
+    <item>260</item>
+    <item>0</item>  <!-- 1 t/r -->
+    <item>910</item>  <!-- 0 t/r -->
+
+    </integer-array>
+</resources>
